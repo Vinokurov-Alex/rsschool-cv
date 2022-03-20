@@ -15,3 +15,19 @@ _I am an open-minded, reliable, sociable and commited person, who is eager to le
 * __JS__ _(basic)_
 * __MS Office__
 ***
+### Code example
+```
+function multiply(a, b){
+ return a * b
+}
+```
+***
+## Education
+**Vitebsk State Technical University**
+* *Marketing department*
+## Languages
+* **Russian/Belarusian (Native)**
+
+***
+## English
+* **English (A1, but I am trying _HARD_ to improve my knowledge of English)**
